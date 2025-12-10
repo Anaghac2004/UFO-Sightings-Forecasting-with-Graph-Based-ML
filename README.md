@@ -74,6 +74,7 @@ The UFO-Sightings-Forecasting-Graph-ML project implements an end-to-end spatio-t
 ### Demo Screenshots  
 
 ## Fig 1: Global Monthly UFO Sightings (1900–2024)
+https://github.com/Anaghac2004/UFO-Sightings-Forecasting-with-Graph-Based-ML/blob/main/Screenshot%202025-12-10%20152943.png
 Historical time-series showing trends and seasonality across 1500 months
 
 ## Fig 2: Predicted 2026 Hotspot Regions (Bar Chart)
