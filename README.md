@@ -84,3 +84,6 @@ Side-by-side bar chart showing actual 2024 counts vs forecasted 2026 totals per 
 
 ## Fig 4: Monthly Forecast Curves for Top Regions (2025–2026)
 Multi-line plot showing predicted monthly sightings for Canada, Brazil, India over 24 months
+
+## Codings
+https://github.com/Anaghac2004/UFO-Sightings-Forecasting-with-Graph-Based-ML/blob/main/ufo_project.ipynb
