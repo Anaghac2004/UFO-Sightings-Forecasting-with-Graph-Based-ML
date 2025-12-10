@@ -78,12 +78,15 @@ https://github.com/Anaghac2004/UFO-Sightings-Forecasting-with-Graph-Based-ML/blo
 Historical time-series showing trends and seasonality across 1500 months
 
 ## Fig 2: Predicted 2026 Hotspot Regions (Bar Chart)
+https://github.com/Anaghac2004/UFO-Sightings-Forecasting-with-Graph-Based-ML/blob/main/Screenshot%202025-12-10%20152958.png
 Canada leads with 126 predicted sightings, followed by Brazil and India
 
 ## Fig 3: 2024 vs 2026 Comparison
+https://github.com/Anaghac2004/UFO-Sightings-Forecasting-with-Graph-Based-ML/blob/main/Screenshot%202025-12-10%20153010.png
 Side-by-side bar chart showing actual 2024 counts vs forecasted 2026 totals per region
 
 ## Fig 4: Monthly Forecast Curves for Top Regions (2025–2026)
+https://github.com/Anaghac2004/UFO-Sightings-Forecasting-with-Graph-Based-ML/blob/main/Screenshot%202025-12-10%20153026.png
 Multi-line plot showing predicted monthly sightings for Canada, Brazil, India over 24 months
 
 ## Codings
